@@ -1,3 +1,5 @@
+# CS229 Final Project
+
 The NFL Draft is a pivotal event where teams select eligible college football players, yet traditional scouting methods rely
 heavily on subjective analysis and speculation. This study introduces a data-driven approach to draft prediction, leveraging
 machine learning techniques to analyze historical draft outcomes, NFL Combine metrics, and college performance statistics.
